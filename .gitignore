@@ -1,0 +1,8 @@
+# Editor cruft
+*~
+*.swp
+*.swo
+
+# IntelliJ
+*.iml
+/.idea
