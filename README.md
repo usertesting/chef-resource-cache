@@ -68,7 +68,7 @@ Any of the following will disable cache entries:
 * Changing the `conditions ({})` for a cache entry
 * Setting the resource_cache.ttl attribute to 0
 * Setting the resource_cache.enable attribute to false
-* Removing the cache files from the resource_cache['dir'] directory
+* Removing the cache files from the resource_cache.dir directory
 
 Attributes
 ----------
